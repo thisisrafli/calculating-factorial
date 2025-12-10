@@ -1,2 +1,1 @@
-# calculating-factorial
-Calculating Factorial
+# CALCULATING FACTORIAL N
